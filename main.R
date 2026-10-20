@@ -1,0 +1,2 @@
+dane<-head(cars)
+
